@@ -21,7 +21,6 @@
 import { COLLECTION_ID, db } from '@/utils';
 
 export default {
-  components: {},
   props: ['fetchComments'],
   data() {
     return {

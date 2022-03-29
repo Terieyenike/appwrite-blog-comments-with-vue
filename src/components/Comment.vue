@@ -46,7 +46,7 @@ export default {
       });
       // eslint-disable-next-line vue/no-mutating-props
       this.data.comment = this.updateText;
-      this.open = false
+      this.open = false;
       promise.then(
         () => {
           this.$emit('refreshData');

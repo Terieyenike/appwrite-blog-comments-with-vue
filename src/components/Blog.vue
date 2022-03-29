@@ -8,7 +8,7 @@
             src="https://res.cloudinary.com/terieyenike/image/upload/v1644896156/vvasmj6onychxlkkynua.png"
             alt="anime character"
           />
-          <p>Written by {{ writtenBy }}</p>
+          <p>Written by {{ name }}</p>
         </div>
       </div>
       <div class="section__details-content">
@@ -25,7 +25,7 @@ export default {
   data() {
     return {
       title: 'Create an image loading placeholder in nuxtJS',
-      writtenBy: 'Teri',
+      name: 'Teri',
       body: `In today's world, where optimization and loading time is crucial for
           websites, loading placeholders are developed to improve the waiting
           experience of users on a webpage. This article will discuss how to

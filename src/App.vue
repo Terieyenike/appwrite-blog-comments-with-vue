@@ -47,7 +47,7 @@ export default {
 
       promise.then(
         (res) => {
-          // console.log(res);
+          console.log(res);
           this.comments = res.documents;
         },
         (err) => {
