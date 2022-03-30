@@ -16,7 +16,7 @@
             id
             required
             :placeholder="data.comment"
-            v-model="updateText"
+            v-model="displayedComment"
           />
           <button class="update">Update</button>
         </div>
@@ -32,7 +32,7 @@ export default {
   data() {
     return {
       open: false,
-      updateText: '',
+      displayedComment: '',
     };
   },
   methods: {
@@ -42,10 +42,8 @@ export default {
 
     updateCommentMethod() {
       let promise = db.updateDocument(this.data.$collection, this.data.$id, {
-        comment: this.updateText,
+        comment: this.displayedComment,
       });
-      // eslint-disable-next-line vue/no-mutating-props
-      this.data.comment = this.updateText;
       this.open = false;
       promise.then(
         () => {
