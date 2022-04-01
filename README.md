@@ -22,10 +22,11 @@ yarn install
 
 - Appwrite
 - Vue
+- Docker
 
 ### Dependencies
 
-- Appwrite
+- appwrite
 
 ### Author
 
