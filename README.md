@@ -1,6 +1,7 @@
 # Implement quick blog comments with Appwrite and Vue
 
-![Project blog comments](https://uc190f5b46230ae8cd39ab7c4a41.previews.dropboxusercontent.com/p/thumb/ABdHsQ-ITF0GPI7HBAEtjjo2pbVa7hAZFMXa_rmF3N7G63Ve7-UtcXkgCX0r-E8k0Hz5JzvxVCLJeVzXiFBaSNWqGNczVQwEelChOA1od1yRfqFN36mKp2Q_Abljmk-qsuQkqD7GLoYsApxSR7jYsChe4BtTJg5p5p2QsYaI8FwkcpyHIH3xlz2-ihayuLohaDuyy4RCRwng3o4KMKYQBDIgOzZhRKTh1KPk5HM2RVGVrSmDAeyuHs1lv2wZjnOEwUflCzX3AqeXPMHpIHdsO_9QuOei5AkaB9wuNBWL_NVggvdp4_xxmg6UTLXpXi3AhmqL2h49Syn7J3RuZ1xx8lVBNEfo_MYvYvCfa6tfe7HzElkaERtWvMJrMmcS236VCmnoTNHkuAV3mXLq6BSeGjQg/p.png)
+### Project Demo
+![blog comments](https://res.cloudinary.com/terieyenike/video/upload/v1648483659/blog-comments_-_28_March_2022_qgrwmy.gif)
 
 ### Project Description
 
