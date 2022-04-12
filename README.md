@@ -12,6 +12,8 @@ Use a blog ID to store comments in the DB.
 
 Finally, you can create a local appwrite instance by running the Docker CLI or Docker desktop and then running the Unix command specified in this [installation guide](https://appwrite.io/docs/installation).
 
+For a follow through guide, I published an article on this topic which you can find [here](https://dev.to/hackmamba/implement-quick-blog-comments-in-vuejs-457j)
+
 ### Project setup
 
 ```
